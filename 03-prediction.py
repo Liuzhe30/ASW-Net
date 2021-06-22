@@ -19,7 +19,7 @@ from config import config_vars
 # Partition of the data to make predictions (test or validation)
 partition = "validation"
 
-experiment_name = 'unet'
+experiment_name = 'fixed_att_SWnet'
 
 config_vars = utils.dirtools.setup_experiment(config_vars, experiment_name)
 
