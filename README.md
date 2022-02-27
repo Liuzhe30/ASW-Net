@@ -1,4 +1,4 @@
-# SWNet
+# ASWNet
 ASW-Net: A Deep Learning-based Tool for Cell Nuclei Segmentation of Fluorescence Microscopy
 
 ## Overview
@@ -15,5 +15,14 @@ The detailed structure of ASW-Net is shown as below:
 
 ### Download SWNet
 ```shell
-git clone https://github.com/Liuzhe30/SWNet
+git clone https://github.com/Liuzhe30/ASW-Net
+```
+
+## Progress
+- [x] README for running ASW-Net.
+
+## Citation
+Please cite the following paper for using this code: 
+```
+Pan, W.; Liu, Z.; Song, W.; Zhen, X.; Yuan, K.; Xu, F.; Lin, G.N. An Integrative Segmentation Framework for Cell Nucleus of Fluorescence Microscopy. Genes 2022, 13, 431. https://doi.org/10.3390/genes13030431
 ```
